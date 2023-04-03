@@ -2,3 +2,4 @@ read item1, item 2, item 3
 sum=item1+item2+item3
 if sum > 100 then provide 20% discount
 print sum
+Hhhhhh
